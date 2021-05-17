@@ -1,0 +1,137 @@
+* {
+font-size: 14px;
+font-weight: normal;
+box-sizing: border-box;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol {
+margin: 0;
+padding: 0;
+}
+.contact_section {
+margin: 0 0 60px 0;
+text-align: center;
+}
+.contact_info p {
+line-height: 28px;
+display: block;
+font-size: 14px;
+color: #7b7b7b;
+margin: 0 0 30px;
+}
+.footer_wrapper .social_links {
+text-align: left;
+margin-bottom: 25px;
+}
+.social_links li {
+display: inline-block;
+margin-right: 4px;
+padding: 0px;
+}
+.contact .social_links li a {
+display: block;
+text-align: center;
+color: #ffffff;
+border: 1px solid #ffffff;
+width: 32px;
+height: 32px;
+line-height: 32px;
+}
+@media (min-width: 1200px){
+.col-lg-4 {
+width: 33.33333333%;
+}
+}
+.contact_section h2{
+font-size: 40px;
+color: #000;
+margin: 0 0 50px 0;
+text-shadow: red 0 0 10px;
+}
+.page_section.contact {
+padding: 60px 0 50px;
+color: #000;
+text-shadow: red 0 0 10px;
+} 
+.footer_wrapper {
+background: #	;
+}
+.footer_bottom {
+border-top: 1px solid #171717;
+padding: 25px 0;
+text-shadow: red 0 0 10px;
+}
+.footer_bottom span {
+display: block;
+font-size: 14px;
+color: #000;
+text-align: center;
+}
+
+.form-control{
+padding: 12px 15px;
+border-color: #ff0000;
+border-radius: 0;
+color: #dedede;
+background: #dcdcdc;
+height: auto;
+}
+.help-block {
+display: block;
+margin-top: 5px;
+margin-bottom: 10px;
+color: #737373;
+}
+.btn-primary {
+color: #000;
+background-color: #dcdcdc;
+border-color: #ff0000;
+padding: 10px 34px;
+border-radius: 0;
+}
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+
+.vk a:hover {
+    background: #5d84ae; 
+    color: #fff;
+}
+.instagram a:hover {
+    background: #8A2BE2; 
+    color: #fff;
+}
+.telegram a:hover {
+    background: #249bd7; 
+    color: #fff;
+}
+.whatsapp a:hover {
+    background: #50b154; 
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
